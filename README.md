@@ -81,3 +81,4 @@
 69. [0069两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 70. [0070加油站](https://leetcode-cn.com/problems/gas-station/)
 71. [0071移除元素](https://leetcode-cn.com/problems/remove-element/)
+72. [0072实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
